@@ -92,6 +92,10 @@ Tuned to overcome uncertainty introduced by amplifier dynamics.
 </p>
 
 <p align="center">
+  <img width="788" alt="image" src="https://github.com/user-attachments/assets/00d23aa4-d73a-43bc-9761-d390f8608cae" />
+</p>
+
+<p align="center">
   <img width="460" src="https://github.com/user-attachments/assets/e2319b92-7794-4f47-a6cd-a7a0d10228b8">
 </p>
 
@@ -99,6 +103,10 @@ Integral sliding mode controller design and results
 
 <p align="center">
   <img width="460" src="https://github.com/user-attachments/assets/5418309f-58f2-472b-82e7-6f5f70b11c95">
+</p>
+
+<p align="center">
+  <img width="776" alt="image" src="https://github.com/user-attachments/assets/32f4064f-18ed-484a-bd7c-71761dc83cee" />
 </p>
 
 Stability Achieved:
