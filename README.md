@@ -44,7 +44,7 @@ Radial AMB Configuration:
 - Even distribution of rotor weight on X and Y axes.
 
 <p align="center">
-  <img width="460" src="https://github.com/user-attachments/assets/6712af77-5e42-4d75-88aa-806a8c3c12a8">
+  <img width="919" alt="image" src="https://github.com/user-attachments/assets/af5bd984-31a2-46ac-ab4f-52244b104fb1" />
 </p>
 
 Coordinate Systems:
@@ -53,7 +53,7 @@ Coordinate Systems:
 - Sensor coordinate (rotor position from sensing planes).
 
 <p align="center">
-  <img width="460" src="https://github.com/user-attachments/assets/0548ace6-90a4-4de5-b874-526095b3f56b">
+  <img width="742" alt="image" src="https://github.com/user-attachments/assets/b4cd3bb3-6503-45fd-96a6-446caaa396e3" />
 </p>
 
 Simulink model:
@@ -75,8 +75,9 @@ Initial assumption: Rotor does not rotate to simplify control design (Ω=0).
 
 Switching Control Gain:
 Tuned to overcome uncertainty introduced by amplifier dynamics.
-![image](https://github.com/user-attachments/assets/dd7cce64-74a4-4087-a4b1-790e4ccf2b34)
 
+
+Sliding mode controller design and results
 
 <p align="center">
   <img width="460" src="https://github.com/user-attachments/assets/e9930acb-9ec4-410b-b074-7810dc139c0b">
