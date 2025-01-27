@@ -44,7 +44,7 @@ Radial AMB Configuration:
 - Even distribution of rotor weight on X and Y axes.
 
 <p align="center">
-  <img width="919" alt="image" src="https://github.com/user-attachments/assets/af5bd984-31a2-46ac-ab4f-52244b104fb1" />
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/af5bd984-31a2-46ac-ab4f-52244b104fb1" />
 </p>
 
 Coordinate Systems:
@@ -53,13 +53,13 @@ Coordinate Systems:
 - Sensor coordinate (rotor position from sensing planes).
 
 <p align="center">
-  <img width="742" alt="image" src="https://github.com/user-attachments/assets/b4cd3bb3-6503-45fd-96a6-446caaa396e3" />
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/b4cd3bb3-6503-45fd-96a6-446caaa396e3" />
 </p>
 
 Simulink model:
 
 <p align="center">
-  <img width="460" src="https://github.com/user-attachments/assets/8834fbb3-010b-4dde-a3b3-01f8588d6637">
+  <img width="600" src="https://github.com/user-attachments/assets/8834fbb3-010b-4dde-a3b3-01f8588d6637">
 </p>
 
 
@@ -85,7 +85,7 @@ Sliding mode controller design and results
 
 
 <p align="center">
-  <img width="788" alt="image" src="https://github.com/user-attachments/assets/00d23aa4-d73a-43bc-9761-d390f8608cae" />
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/00d23aa4-d73a-43bc-9761-d390f8608cae" />
 </p>
 
 
@@ -96,7 +96,7 @@ Integral sliding mode controller design and results
 </p>
 
 <p align="center">
-  <img width="776" alt="image" src="https://github.com/user-attachments/assets/32f4064f-18ed-484a-bd7c-71761dc83cee" />
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/32f4064f-18ed-484a-bd7c-71761dc83cee" />
 </p>
 
 Stability Achieved:
