@@ -27,6 +27,85 @@ Work details:
   <img width="460" src="https://github.com/user-attachments/assets/62b54614-e93b-45de-99dc-d79b0ec5de75">
 </p>
 
+## Levitation Controller Design of a 5-DOF Magnetic Rotor-Bearing System using Sliding Mode Control
+
+Design levitation controller for a 5-DOF Magnetic Rotor-Bearing System :
+- Utilize Sliding Mode Control (SMC) 
+- Simulate the system
+- Address steady state errors (using Integral Sliding Mode Control, ISMC) 
+
+Magnetic Rotor-Bearing System:
+- Utilizes radial and axial active magnetic bearings (radial AMB, axial AMB).
+- Designed for stable rotor levitation.
+
+Radial AMB Configuration:
+- 8-pole heteropolar AMB with differential driving.
+- Windings generate magnetic force in X and Y directions.
+- Even distribution of rotor weight on X and Y axes.
+
+<p align="center">
+  <img width="460" src="https://github.com/user-attachments/assets/6712af77-5e42-4d75-88aa-806a8c3c12a8">
+</p>
+
+Coordinate Systems:
+- Focus on radial motion with four degrees of freedom.
+- Body coordinate (rotational and translational motions).
+- Sensor coordinate (rotor position from sensing planes).
+
+<p align="center">
+  <img width="460" src="https://github.com/user-attachments/assets/0548ace6-90a4-4de5-b874-526095b3f56b">
+</p>
+
+<p align="center">
+  <img width="460" src="https://github.com/user-attachments/assets/51db5d78-2584-4e53-9afc-6fbdd4682749">
+</p>
+
+Simulink model:
+
+<p align="center">
+  <img width="460" src="https://github.com/user-attachments/assets/8834fbb3-010b-4dde-a3b3-01f8588d6637">
+</p>
+
+
+Control Design Approach:
+Combine backstepping and sliding mode control for amplifier dynamics but :
+Derivation of control law with Backstepping is very complex.
+
+Sliding Manifold:
+Chosen to define the desired dynamics.
+Designed to be compatible with the slowest amplifier response.
+
+Initial assumption: Rotor does not rotate to simplify control design (Ω=0).
+
+Switching Control Gain:
+Tuned to overcome uncertainty introduced by amplifier dynamics.
+![image](https://github.com/user-attachments/assets/dd7cce64-74a4-4087-a4b1-790e4ccf2b34)
+
+
+<p align="center">
+  <img width="460" src="https://github.com/user-attachments/assets/e9930acb-9ec4-410b-b074-7810dc139c0b">
+</p>
+
+
+<p align="center">
+  <img width="460" src="https://github.com/user-attachments/assets/de647d41-6ba6-424d-8c56-b442c46b86e3">
+</p>
+
+<p align="center">
+  <img width="460" src="https://github.com/user-attachments/assets/e2319b92-7794-4f47-a6cd-a7a0d10228b8">
+</p>
+
+Integral sliding mode controller design and results
+
+<p align="center">
+  <img width="460" src="https://github.com/user-attachments/assets/5418309f-58f2-472b-82e7-6f5f70b11c95">
+</p>
+
+Stability Achieved:
+- Both SMC and ISMC demonstrated stability in rotor levitation.
+- ISMC, in particular, showcased accurate levitation without steady state errors.
+
+
 ## Computer Vision-based Driver Scoring System using Machine Learning
 
 Goal: Infringements detection 
