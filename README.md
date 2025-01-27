@@ -56,10 +56,6 @@ Coordinate Systems:
   <img width="460" src="https://github.com/user-attachments/assets/0548ace6-90a4-4de5-b874-526095b3f56b">
 </p>
 
-<p align="center">
-  <img width="460" src="https://github.com/user-attachments/assets/51db5d78-2584-4e53-9afc-6fbdd4682749">
-</p>
-
 Simulink model:
 
 <p align="center">
@@ -88,21 +84,14 @@ Tuned to overcome uncertainty introduced by amplifier dynamics.
 
 
 <p align="center">
-  <img width="460" src="https://github.com/user-attachments/assets/de647d41-6ba6-424d-8c56-b442c46b86e3">
-</p>
-
-<p align="center">
   <img width="788" alt="image" src="https://github.com/user-attachments/assets/00d23aa4-d73a-43bc-9761-d390f8608cae" />
 </p>
 
-<p align="center">
-  <img width="460" src="https://github.com/user-attachments/assets/e2319b92-7794-4f47-a6cd-a7a0d10228b8">
-</p>
 
 Integral sliding mode controller design and results
 
 <p align="center">
-  <img width="460" src="https://github.com/user-attachments/assets/5418309f-58f2-472b-82e7-6f5f70b11c95">
+  <img width="460" src="https://github.com/user-attachments/assets/e2319b92-7794-4f47-a6cd-a7a0d10228b8">
 </p>
 
 <p align="center">
